@@ -12,3 +12,7 @@ This repository is a minimal example for trying GitHub Stacked Pull Requests loc
 1. Create a branch from the previous branch in the stack.
 2. Open a PR targeting that previous branch.
 3. Merge the earlier PR and continue the chain.
+
+
+## Branch strategy
+Use one PR per logical change and keep the stack small.
